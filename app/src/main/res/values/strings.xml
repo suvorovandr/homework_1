@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ДЗ-1 Суворов А.А.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="new_element">Создать новый элемент</string>
+</resources>
